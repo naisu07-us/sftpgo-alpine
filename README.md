@@ -96,3 +96,4 @@ More information about [compliance](https://sftpgo.com/compliance.html).
 ## Copyright
 
 Copyright (C) 2019 Nicola Murino
+# sftpgo-alpine
